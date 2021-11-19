@@ -1,16 +1,18 @@
-### Hi there 👋
+# My Profile
 
-<!--
-**tara-joseph/tara-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About me
 
-Here are some ideas to get you started:
+Aspiring data analyst with a love of numbers and fascination for deriving patterns from them.Acquired Bachelors in Mathematics from Stella Maris College,Chennai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##My skills
+
+
+##Programming Skills
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
+
