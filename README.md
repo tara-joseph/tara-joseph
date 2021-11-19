@@ -1,13 +1,13 @@
 # My Profile
 
-##About me
+# About me
 
 Aspiring data analyst with a love of numbers and fascination for deriving patterns from them.Acquired Bachelors in Mathematics from Stella Maris College,Chennai.
 
-##My skills
+# My skills
 
 
-##Programming Skills
+# Programming Skills
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
