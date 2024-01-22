@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tara Mary Joseph</h1>
 <h3 align="center">An aspiring data analyst that's passionate about storytelling through data!</h3>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Power Automate**
 
 - 👨‍💻 All of my projects are available at [github.come/tara-joseph](github.come/tara-joseph)
 
