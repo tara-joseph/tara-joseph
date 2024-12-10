@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power Automate**
 
-- 👨‍💻 All of my projects are available at [github.come/tara-joseph](github.come/tara-joseph)
+
 
 - 📫 How to reach me **taramary123@gmail.com**
 
